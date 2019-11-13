@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-joker-cards/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-joker-cards/static/js/main.b8ecf71f.chunk.js",
+    "main.js.map": "/react-joker-cards/static/js/main.b8ecf71f.chunk.js.map",
+    "runtime-main.js": "/react-joker-cards/static/js/runtime-main.ecc36cc3.js",
+    "runtime-main.js.map": "/react-joker-cards/static/js/runtime-main.ecc36cc3.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/react-joker-cards/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.808c7678.chunk.js": "/react-joker-cards/static/js/2.808c7678.chunk.js",
+    "static/js/2.808c7678.chunk.js.map": "/react-joker-cards/static/js/2.808c7678.chunk.js.map",
+    "index.html": "/react-joker-cards/index.html",
+    "precache-manifest.8b381112a7714cb21b607891d90d4e3a.js": "/react-joker-cards/precache-manifest.8b381112a7714cb21b607891d90d4e3a.js",
+    "service-worker.js": "/react-joker-cards/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/react-joker-cards/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/react-joker-cards/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecc36cc3.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.808c7678.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.b8ecf71f.chunk.js"
+  ]
+}
